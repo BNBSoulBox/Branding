@@ -30,7 +30,7 @@ yarn build
 
 ```html
 <script type="module">
-  import Chatbot from 'https://cdn.jsdelivr.net/npm/BNBSoulBox/Branding/dist/web.js';
+  import Chatbot from 'https://cdn.jsdelivr.net/gh/BNBSoulBox/Branding/dist/web.js';
   Chatbot.init({
     chatflowid: '<chatflowid>',
     apiHost: 'http://localhost:3000',
