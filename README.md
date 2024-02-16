@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise Embed
+# Maggy Embed
 
 Javascript library to display flowise chatbot on your website
 
